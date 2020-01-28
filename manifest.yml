@@ -5,5 +5,5 @@ applications:
   routes:
     - route: pal-tracker-mohan-pradnya.apps.evans.pal.pivotal.io
   env:
-      WELCOME_MESSAGE: Hello from Cloud Foundry
+      WELCOME_MESSAGE: Hello from Cloud Foundry with Travis
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
